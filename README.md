@@ -10,44 +10,36 @@
 <p>Just opened a file so nothing noteworthy</p>
 <b>Flag</b>=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If<br>
 
-
-<h3>Question 2</h3>
-<p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p><b>Flag</b>=<code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code><br>
+<h3>Question 2: Level 1→ Level 2</h3>
+<p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p>
+<b>Flag</b>=<code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code><br>
 
 <b>The syntax</b><code>cat ./-</code>
 
-<h3>Question 3</h3>
+<h3>Question 3: Level 2→ Level 3</h3>
 <b>Flag</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
 
-<h3>Question 4</h3>
+<h3>Question 4: Level 3→ Level 4</h3>
 <b>Flag</b>=<code>2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ</code><br>
 
-<h3>Question 5</h3>
+<h3>Question 5: Level 4→ Level 5</h3>
 <b>Flag</b>=<code>4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw</code><br>
 
-<h3>Question 6</h3>
+<h3>Question 6: Level 5→ Level 6</h3>
 <b>Flag</b>=<code>HWasnPhtq9AVKe0dmk45nxy20cvUa6EG</code><br>
 
-<h3>Question 7</h3>
+<h3>Question 7: Level 6→ Level 7</h3>
 <b>Flag</b>=<code>morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj</code><br>
 
-<h3>Question 8</h3>
+<h3>Question 8: Level 7→ Level 8</h3>
 <b>Flag</b>=<code>dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc</code><br>
 
-<h3>Question 9</h3>
+<h3>Question 9: Level 8→ Level 9</h3>
 <b>Flag</b>=<code>4CKMh1JI91bUIZZPXDqGanal4xvAg0JM</code><br>
 
-<h3>Question 10</h3>
-<b>Flag</b>=<code>FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey</code><br>
+<h3>Question 10: Level 9→ Level 10</h3>
+<b>Flag</b>=
 
-<h3>Question 11</h3>
-<b>Flag</b>=<code>dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr</code><br>
-
-<h3>Question 12</h3>
-<b>Flag</b>=<code>7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4</code><br>
-
-<h3>Question 13</h3>
-<b>Flag</b>=<code>FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn</code><br>
 
 <br>
 <h2>2)Linux Luminarium</h2>
