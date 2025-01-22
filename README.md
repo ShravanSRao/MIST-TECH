@@ -10,8 +10,8 @@
 <p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p>
 
 '''
-cat ./-
-flag=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+cat ./- <br>
+flag=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If<br>
 '''
 
 <h3>Question 2</h3>
