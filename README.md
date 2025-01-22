@@ -3,7 +3,7 @@
 <h2>1)Over the wire</h2>
 <br>
 <h3>Summary</h3>
-<\n>
+<br>
 <p>This activity pushed me to learn Linux commands, which I had been lazy to learn, even though I had dual-booted my system before the meet was conducted. I used to just run to ChatGPT and use it to try and solve CTF questions, but I gained some confidence after completing this task. I have completed 12 questions so far, and I hope to continue. I will be documenting my initial thought process and how I tackled each question. I have checked solutions for some of them on YouTube when I got stuck </p>
 
 <h3>Question 1</h3>
