@@ -11,11 +11,15 @@
 
 
 cat ./- <br>
-flag=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If<br>
+<b>Flag</b>=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If<br>
 
 
 <h3>Question 2</h3>
+<b>Flag</b>=<code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code><br>
+
 <h3>Question 3</h3>
+<b>Flag</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
+
 <h3>Question 4</h3>
 <h3>Question 5</h3>
 <h3>Question 6</h3>
