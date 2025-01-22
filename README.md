@@ -6,29 +6,49 @@
 <br>
 <p>This activity pushed me to learn Linux commands, which I had been lazy to learn, even though I had dual-booted my system before the meet was conducted. I used to just run to ChatGPT and use it to try and solve CTF questions, but I gained some confidence after completing this task. I have completed 12 questions so far, and I hope to continue. I will be documenting my initial thought process and how I tackled each question. I have checked solutions for some of them on YouTube when I got stuck </p>
 
-<h3>Question 1: Level 1 → Level 2</h3>
-<p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p>
+<h3>Question 1: Level 0→ Level 1</h3>
 
-
-cat ./- <br>
 <b>Flag</b>=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If<br>
 
 
 <h3>Question 2</h3>
+<p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p>
+cat ./- <br>
 <b>Flag</b>=<code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code><br>
 
 <h3>Question 3</h3>
 <b>Flag</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
 
 <h3>Question 4</h3>
+<b>Flag</b>=<code>2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ</code><br>
+
 <h3>Question 5</h3>
+<b>Flag</b>=<code>4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw</code><br>
+
 <h3>Question 6</h3>
+<b>Flag</b>=<code>HWasnPhtq9AVKe0dmk45nxy20cvUa6EG</code><br>
+
 <h3>Question 7</h3>
+<b>Flag</b>=<code>morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj</code><br>
+
 <h3>Question 8</h3>
+<b>Flag</b>=<code>dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc</code><br>
+
 <h3>Question 9</h3>
+<b>Flag</b>=<code>4CKMh1JI91bUIZZPXDqGanal4xvAg0JM</code><br>
+
 <h3>Question 10</h3>
+<b>Flag</b>=<code>FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey</code><br>
+
 <h3>Question 11</h3>
+<b>Flag</b>=<code>dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr</code><br>
+
 <h3>Question 12</h3>
+<b>Flag</b>=<code>7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4</code><br>
+
+<h3>Question 13</h3>
+<b>Flag</b>=<code>FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn</code><br>
+
 <br>
 <h2>2)Linux Luminarium</h2>
 <br>
