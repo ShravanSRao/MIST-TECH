@@ -7,15 +7,15 @@
 <p>This activity pushed me to learn Linux commands, which I had been lazy to learn, even though I had dual-booted my system before the meet was conducted. I used to just run to ChatGPT and use it to try and solve CTF questions, but I gained some confidence after completing this task. I have completed 12 questions so far, and I hope to continue. I will be documenting my initial thought process and how I tackled each question. I have checked solutions for some of them on YouTube when I got stuck </p>
 
 <h3>Question 1: Level 0→ Level 1</h3>
-
+<p>Just opened a file so nothing noteworthy</p>
 <b>Flag</b>=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If<br>
 
 
 <h3>Question 2</h3>
-<p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p>
-cat ./- <br>
-<b>Flag</b>=<code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code><br>
-
+<p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p><b>Flag</b>=<code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code><br>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; height: 150px; overflow: auto;">
+    <code>cat ./-</code>
+</div>
 <h3>Question 3</h3>
 <b>Flag</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
 
