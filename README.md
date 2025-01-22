@@ -13,9 +13,9 @@
 
 <h3>Question 2</h3>
 <p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p><b>Flag</b>=<code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code><br>
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; height: 150px; overflow: auto;">
-    <code>cat ./-</code>
-</div>
+
+<b>The syntax</b><code>cat ./-</code>
+
 <h3>Question 3</h3>
 <b>Flag</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
 
