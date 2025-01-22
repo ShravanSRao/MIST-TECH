@@ -38,7 +38,17 @@
 <b>Flag</b>=<code>4CKMh1JI91bUIZZPXDqGanal4xvAg0JM</code><br>
 
 <h3>Question 10: Level 9→ Level 10</h3>
-<b>Flag</b>=
+<b>Flag</b>=<code>FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey</code><br>
+
+<h3>Question 11: Level 10→ Level 11</h3>
+<b>Flag</b>=<code>dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr</code><br>
+
+<h3>Question 12: Level 11→ Level 12</h3>
+<b>Flag</b>=<code>7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4</code><br>
+
+<h3>Question 13: Level 12→ Level 13</h3>
+<b>Flag</b>=<code>FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn</code><br>
+
 
 
 <br>
