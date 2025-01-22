@@ -3,18 +3,24 @@
 <h2>1)Over the wire</h2>
 <br>
 <h3>Summary</h3>
-<br>
-<p>This activity pushed me learn llinux commands which i was lazy to learn even though i had dual booted even before the meet was conducted.I used to just run to chatgpt and use it to try and solve CTF questions ,but i gained some confidence after completing this task.I have completed 12 questions till now and i hope to continue this.I will be documenting what my intial think process was and how i found the question.I have checked solutions for some on youtube when i got stuck </p>
+<\n>
+<p>This activity pushed me to learn Linux commands, which I had been lazy to learn, even though I had dual-booted my system before the meet was conducted. I used to just run to ChatGPT and use it to try and solve CTF questions, but I gained some confidence after completing this task. I have completed 12 questions so far, and I hope to continue. I will be documenting my initial thought process and how I tackled each question. I have checked solutions for some of them on YouTube when I got stuck </p>
 
-<h3>question 1</h3>
-<h3>question 2</h3>
-<h3>question 3</h3>
-<h3>question 4</h3>
-<h3>question 5</h3>
-<h3>question 6</h3>
-<h3>question 7</h3>
-<h3>question 8</h3>
-<h3>question 9</h3>
-<h3>question 10</h3>
-<h3>question 11</h3>
-<h3>question 12</h3><h2>2)Linux Luminarium</h2>
+<h3>Question 1</h3>
+<h3>Question 2</h3>
+<h3>Question 3</h3>
+<h3>Question 4</h3>
+<h3>Question 5</h3>
+<h3>Question 6</h3>
+<h3>Question 7</h3>
+<h3>Question 8</h3>
+<h3>Question 9</h3>
+<h3>Question 10</h3>
+<h3>Question 11</h3>
+<h3>Question 12</h3>
+<br>
+<h2>2)Linux Luminarium</h2>
+<br>
+<h3>Summary<h3>
+<br>
+<p>Work in progress,I have not completed this task yet,im really sorry and i will try to complete it as soon as spossible </p>
