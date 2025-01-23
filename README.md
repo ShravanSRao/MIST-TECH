@@ -8,17 +8,18 @@
 
 <h3>Question 1: Level 0→ Level 1</h3>
 <p>Just opened a file so nothing noteworthy</p>
-<b>Flag</b>=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If<br>
+<b>Flag found</b>=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If<br>
 
 <h3>Question 2: Level 1→ Level 2</h3>
 <p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p>
-<b>Flag</b>=<code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code><br>
+<b>Flag found</b>=<code>263JGJPfgU6LtdEvgfWU1XP5yac29mFx</code><br>
 
 <b>The syntax</b><code>cat ./-</code>
 
 <h3>Question 3: Level 2→ Level 3</h3>
-<h1>I will add other explainations soon it is late and i have to leave my house at 6:30 for college .I addded all the flags collected .I have images of my notes will add that too</h1>
-<b>Flag</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
+<p>The file had spaces between so just googled how to open those file .I learned that i have to put the file name inisde <code>"File name"</code></p>
+<b>Flag found</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
+<b>The syntax</b><code>file "spaces in this filename"cat -</code></b><code>cat "spaces in this filename"</code>
 
 <h3>Question 4: Level 3→ Level 4</h3>
 <b>Flag</b>=<code>2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ</code><br>
@@ -49,7 +50,7 @@
 
 <h3>Question 13: Level 12→ Level 13</h3>
 <b>Flag</b>=<code>FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn</code><br>
-
+<h1>I will add other explainations soon it is late and i have to leave my house at 6:30 for college .I addded all the flags collected .I have images of my notes will add that too</h1>
 
 
 <br>
