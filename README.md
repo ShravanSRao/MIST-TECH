@@ -64,8 +64,7 @@
 <b>Flag</b>=<code>morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj</code><br>
 <b>The syntax</b>
 <ul>
-  <li>find / -user bandit7 -group bandit6 -size 33c 2>/dev/null</li>
-  
+  <li><code>find / -user bandit7 -group bandit6 -size 33c 2>/dev/null</code></li>
 </ul>
 
 
