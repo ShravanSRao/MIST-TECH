@@ -60,9 +60,10 @@
 </ul>
 
 <h3>Question 7: Level 6→ Level 7</h3>
-<p>After learning from my previous mistake,i read find = documentation to find user an ddgroup name oeprators,But i was running find <code>./ -user bandit7 -group bandit6 -size 33c</code> but it returned nothing and my terminal was glitching later on tired ls to list files but there were non.I restarted the terminal thinking there was some glitch .I got stuck again so i again went to Hasan-AL-Gaib youtube and got to know i was supposed to use <code> / </code> to search server so  stopped youtube and ran the command.Started getting  persmission denied  error went back to youtube thinking i did something wrong .It was said that im supposed to add <code>2>/dev/null</code> at the end it was told it moves all the permission denied to this file <br><b>Unclear : </b>I still dont quite understnad it </p>
+<p>After learning from my previous mistake,i read find = documentation to find user an ddgroup name oeprators,But i was running find <code>./ -user bandit7 -group bandit6 -size 33c</code> but it returned nothing and my terminal was glitching later on tired ls to list files but there were non.I restarted the terminal thinking there was some glitch .I got stuck again so i again went to Hasan-AL-Gaib youtube and got to know i was supposed to use <code> / </code> to search server so  stopped youtube and ran the command.Started getting  persmission denied  error went back to youtube thinking i did something wrong .It was said that im supposed to add <code>2>/dev/null</code> at the end it was told it moves all the permission denied to this file 
+<br>  <b>Unclear : </b>I still dont quite understnad it </p>
 <b>Flag</b>=<code>morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj</code>
-<h6>The syntax</h6>
+<b>The syntax</b>
 <ul>
   <li><code>find / -user bandit7 -group bandit6 -size 33c 2>/dev/null</code></li>
 </ul>
