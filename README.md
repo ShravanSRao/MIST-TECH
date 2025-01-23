@@ -55,8 +55,8 @@
 <b>Flag found</b>=<code>HWasnPhtq9AVKe0dmk45nxy20cvUa6EG</code><br>
 <b>The syntax</b>
 <ul>
-  <li>find ./ -size 1033c</li>
-  <li>cat ./maybehere07/.file2</li>
+  <li><code>find ./ -size 1033c</code> </li>
+  <li><code>cat ./maybehere07/.file2</li>
 </ul>
 
 <h3>Question 7: Level 6→ Level 7</h3>
