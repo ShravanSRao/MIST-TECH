@@ -54,7 +54,6 @@
   <li><code>find ./ -size 1033c</code> </li>
   <li><code>cat ./maybehere07/.file2</li>
 </ul>
-
 <h3>Question 7: Level 6→ Level 7</h3>
 <p>After learning from my previous mistake,i read find = documentation to find user an ddgroup name oeprators,But i was running find <code>./ -user bandit7 -group bandit6 -size 33c</code> but it returned nothing and my terminal was glitching later on tired ls to list files but there were non.I restarted the terminal thinking there was some glitch .I got stuck again so i again went to Hasan-AL-Gaib youtube and got to know i was supposed to use <code> / </code> to search server so  stopped youtube and ran the command.Started getting  persmission denied  error went back to youtube thinking i did something wrong .It was said that im supposed to add <code>2>/dev/null</code> at the end it was told it moves all the permission denied to this file 
 <br>  <b>Unclear : </b>I still dont quite understnad it </p>
@@ -63,28 +62,67 @@
 <ul>
   <li><code>find / -user bandit7 -group bandit6 -size 33c 2>/dev/null</code></li>
 </ul>
-
-
 <h3>Question 8: Level 7→ Level 8</h3>
+    <p>Learned grep command which used to recognize text patterns from some oggogle searches .-w operator of grep searches for whole words so i got through this level without wasting muh time</p>
 <b>Flag</b>=<code>dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc</code><br>
+<b>The syntax</b>
+<code>grep -w "millionth" data.txt</code>
 
 <h3>Question 9: Level 8→ Level 9</h3>
+<p>I tried using <code>uniq -c data.txt</code> but no use so i started googling methods and stumblled upon <code>sort file.txt | uniq -c</code> and used this .sort uses whitespace as delimiter and sorts them,pipe operator takes the uoutput from lhs and gives it to the rhs and the uniq -c counts each apperance.Later on i realised i could use uniq -u which gives the string which appears only once </p>
 <b>Flag</b>=<code>4CKMh1JI91bUIZZPXDqGanal4xvAg0JM</code><br>
-
+<b>The syntax</b>
+<code>sort data.txt | uniq -c</code>
 <h3>Question 10: Level 9→ Level 10</h3>
+<p>I saw that the page recommended search base64 ,in my biasness when i tired opening the file whihc was in unknown format i assumed it was base64.So with half baked knowledge instead of giving the command <code>base64 -d data.txt</code> i was using <code>base64 data.txt</code>.
+I  now (While writing this writeup) realiz that I  was converting bizare text to base64 but when trying to clear the level,I actually thought i was decoding it then used <code>base64 data.txt | uniq -u</code>But as my inital assumptions were wrong it didnt lead anywhere.So i again turns towards Youtube Sensei to get the solution and got the solution </p>
 <b>Flag</b>=<code>FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey</code><br>
+<b>The syntax</b>
+<code>sort data.txt | Strings | uniq -c</code>
+
 
 <h3>Question 11: Level 10→ Level 11</h3>
+<p>Since i tried using base64 i knew how to decode and this was the quickest solve out of all problems</p>
 <b>Flag</b>=<code>dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr</code><br>
 
+
+<b>The syntax</b>
+<code>base64 -d data.txt</code>
+
 <h3>Question 12: Level 11→ Level 12</h3>
+<p>I tried some simpel goggle searches and got the command. Learned the tr commands which can be used to perform Rot-13 decrypting</p>
 <b>Flag</b>=<code>7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4</code><br>
+<b>The syntax</b>
+<code>cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'</code>
 
 <h3>Question 13: Level 12→ Level 13</h3>
+<p>This was the most irritating out of the questions i solved.I got stuck and went to Lord youtube and solved the program.It was frustrating because even though i my just unzipping files but i had to do it so many times ,it was irritating .But atleast i will remember it for a longer time . i learned how cp,>operator </p>
 <b>Flag</b>=<code>FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn</code><br>
-<h1>I will add other explainations soon it is late and i have to leave my house at 6:30 for college .I addded all the flags collected .I have images of my notes will add that too</h1>
-
-
+<b>The syntax</b>
+<ul>
+  <li><code>mkdir /tmp/s</code></li>
+  <li><code>cp data.txt /tmp/srao</code></li>
+  <li><code>xxd -r data.txt > data</code></li>
+  <li><code>file data</code></li>
+  <li><code>mv data data.gz</code></li>
+  <li><code>gzip -d data,gz</code></li>
+  <li><code>file data</code></li>
+  <li><code>mv data data.bz2</code></li>
+  <li><code>bzip2 -d data.bz2</code></li>
+  <li><code>mv data data.tar</code></li>
+  <li><code>tar xvf data.tar</code></li>
+  <li><code>mv data5.bin data.tar</code></li>
+  <li><code>tar xvf data.tar</code></li>
+  <li><code>mv data6.bin data.bz2</code></li>
+  <li><code>bzip2 -d data.bz2</code></li>
+  <li><code>mv data data.tar</code></li>
+  <li><code>tar xvf data.tar</code></li>
+  <li><code>mv data8.bin data.gz</code></li>
+  <li><code>gzip -d  data.gz</code></li>
+  <li><code>file data</code></li>
+  <li><code>cat data</code></li>
+  
+</ul>
 <br>
 <h2>2)Linux Luminarium</h2>
 <br>
