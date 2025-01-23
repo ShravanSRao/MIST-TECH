@@ -20,7 +20,7 @@
 <h3>Question 3: Level 2→ Level 3</h3>
 <p>The file had spaces between so just googled how to open those file .I learned that i have to put the file name inisde <code>"File name"</code></p>
 <b>Flag found</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
-<b>The syntax</b><code>file "spaces in this filename"</code></b><br> <code>cat "spaces in this filename"</code>
+*<b>The syntax</b><code>file "spaces in this filename"</code></b><br> *<code>cat "spaces in this filename"</code>
 
 <h3>Question 4: Level 3→ Level 4</h3>
 <p>I learned that files hidden started with a dot <code>.file_name</code>so i used <code>ls -f</code> it showed the hiden ASCII file named <em>...Hiding-From-You  .  ..</em>i tried using the format <code>cat "...Hiding-From-You  .  .."</code> but it didn't work for some reason so i used nano command</p>
