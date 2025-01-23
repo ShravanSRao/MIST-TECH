@@ -46,11 +46,28 @@
 </ul>
 
 <h3>Question 6: Level 5→ Level 6</h3>
-<p>I just</p>
+<p>My intial thoughts were that there is probably a hidden file and listed all the files so i used <code>du -h</code> which lists the size of all the files .I misjudged that K represents bits and <b>. file </b>of 1.3M <em>[I assumed M was bytes :( ]</em> size was the targeted file which we i was supposed to open.Thats the reason i was stuck for a long time then later on checked youtube to get the solution .
+<ul>
+  <li>I learned that ./ refers to the current directory </li>
+  <li>cd .. to come out of the current directory </li>
+  <li>Use the documentation to search for things like operators</li>
+</ul></p>
 <b>Flag found</b>=<code>HWasnPhtq9AVKe0dmk45nxy20cvUa6EG</code><br>
+<b>The syntax</b>
+<ul>
+  <li>find ./ -size 1033c</li>
+  <li>cat ./maybehere07/.file2</li>
+</ul>
 
 <h3>Question 7: Level 6→ Level 7</h3>
+<p>After learning from my previous mistake,i read find = documentation to find user an ddgroup name oeprators,But i was running find <code>./ -user bandit7 -group bandit6 -size 33c</code> but it returned nothing and my terminal was glitching later on tired ls to list files but there were non.I restarted the terminal thinking there was some glitch .I got stuck again so i again went to Hasan-AL-Gaib youtube and got to know i was supposed to use <code> / </code> to search server so  stopped youtube and ran the command.Started getting  persmission denied  error went back to youtube thinking i did something wrong .It was said that im supposed to add <code>2>/dev/null</code> at the end it was told it moves all the permission denied to this file <br><b>Unclear : </b>I still dont quite understnad it </p>
 <b>Flag</b>=<code>morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj</code><br>
+<b>The syntax</b>
+<ul>
+  <li>find / -user bandit7 -group bandit6 -size 33c 2>/dev/null</li>
+  
+</ul>
+
 
 <h3>Question 8: Level 7→ Level 8</h3>
 <b>Flag</b>=<code>dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc</code><br>
