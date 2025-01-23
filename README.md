@@ -83,7 +83,7 @@ I  now (While writing this writeup) realiz that I  was converting bizare text to
 
 <h3>Question 11: Level 10→ Level 11</h3>
 <p>Since i tried using base64 i knew how to decode and this was the quickest solve out of all problems</p>
-<b>Flag</b>=<code>dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr</code><br>
+<b>Flag</b>=<code>dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr</code>
 
 
 <b>The syntax</b>
@@ -97,7 +97,7 @@ I  now (While writing this writeup) realiz that I  was converting bizare text to
 
 <h3>Question 13: Level 12→ Level 13</h3>
 <p>This was the most irritating out of the questions i solved.I got stuck and went to Lord youtube and solved the program.It was frustrating because even though i my just unzipping files but i had to do it so many times ,it was irritating .But atleast i will remember it for a longer time . i learned how cp,>operator </p>
-<b>Flag</b>=<code>FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn</code><br>
+<b>Flag</b>=<code>FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn</code>
 <b>The syntax</b>
 <ul>
   <li><code>mkdir /tmp/s</code></li>
@@ -123,7 +123,6 @@ I  now (While writing this writeup) realiz that I  was converting bizare text to
   <li><code>cat data</code></li>
   
 </ul>
-<br>
 <h2>2)Linux Luminarium</h2>
 <br>
 <h3>Summary<h3>
