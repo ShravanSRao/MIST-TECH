@@ -9,7 +9,7 @@
 <h3>Question 1: Level 0→ Level 1</h3>
 <p>Just opened a file so nothing noteworthy.I used less to open the text file </p>
 <b>Flag found</b>=ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If<br>
-<b>The syntax</b><code>less ./-</code>
+<b>The syntax</b><code>less readme</code>
 
 <h3>Question 2: Level 1→ Level 2</h3>
 <p>I knew the ls, cd, and find commands, so as I learned cat, du, and file through these questions, I did some googling. I learned that to open a file that starts with a -, we have to use ./ before it and then run the simple command, which helped me get the correct answer.</p>
