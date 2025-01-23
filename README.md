@@ -32,7 +32,7 @@
 <h3>Question 4: Level 3→ Level 4</h3>
 <p>I learned that files hidden started with a dot <code>.file_name</code>so i used <code>ls -f</code> it showed the hiden ASCII file named <em>...Hiding-From-You  .  ..</em>i tried using the format <code>cat "...Hiding-From-You  .  .."</code> but it didn't work for some reason so i used nano command</p>
 <b>Flag found </b>=<code>2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ</code><br>
-<b>The syntax</b><code>nano ...Hiding-From-You  .  .. </code>
+<b>The syntax  : </b><code>nano ...Hiding-From-You  .  .. </code>
 
 <h3>Question 5: Level 4→ Level 5</h3>
 <b>Flag</b>=<code>4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw</code><br>
