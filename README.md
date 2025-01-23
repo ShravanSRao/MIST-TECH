@@ -35,10 +35,19 @@
 <b>The syntax  : </b><code>nano ...Hiding-From-You  .  .. </code>
 
 <h3>Question 5: Level 4→ Level 5</h3>
-<b>Flag</b>=<code>4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw</code><br>
+<p>Used <code>file ./-fileXX </code>repeated this operation 7 times to find that the -file07 is ASCII format opened  it and found the flag.Later on relaised i could have used find command with -size operator to find files based in file size.Here i just used brute force trying to open all files</p>
+<b>Flag found</b>=<code>4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw</code><br>
+<b>The syntax</b>
+<ul>
+  
+  <li><code>file ./-fileXX</code></li>
+  <li><code>cat ./-file07</code></li>
+  
+</ul>
 
 <h3>Question 6: Level 5→ Level 6</h3>
-<b>Flag</b>=<code>HWasnPhtq9AVKe0dmk45nxy20cvUa6EG</code><br>
+<p>I just</p>
+<b>Flag found</b>=<code>HWasnPhtq9AVKe0dmk45nxy20cvUa6EG</code><br>
 
 <h3>Question 7: Level 6→ Level 7</h3>
 <b>Flag</b>=<code>morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj</code><br>
