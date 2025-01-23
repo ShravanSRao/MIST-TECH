@@ -22,13 +22,9 @@
 <b>Flag found</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
 <b>The syntax</b>
 <ul>
-  
   <li><code>file "spaces in this filename"</code></li>
   <li><code>cat "spaces in this filename"</code></li>
-  
 </ul>
- 
-
 <h3>Question 4: Level 3→ Level 4</h3>
 <p>I learned that files hidden started with a dot <code>.file_name</code>so i used <code>ls -f</code> it showed the hiden ASCII file named <em>...Hiding-From-You  .  ..</em>i tried using the format <code>cat "...Hiding-From-You  .  .."</code> but it didn't work for some reason so i used nano command</p>
 <b>Flag found </b>=<code>2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ</code><br>
