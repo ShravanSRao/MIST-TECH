@@ -20,8 +20,9 @@
 <h3>Question 3: Level 2→ Level 3</h3>
 <p>The file had spaces between so just googled how to open those file .I learned that i have to put the file name inisde <code>"File name"</code></p>
 <b>Flag found</b>=<code>MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx</code><br>
+<b>The syntax</b>
 <ul>
-  <b>The syntax</b>
+  
   <li><code>file "spaces in this filename"</code></li>
   <li><code>cat "spaces in this filename"</code></li>
   
