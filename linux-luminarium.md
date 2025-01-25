@@ -1,4 +1,4 @@
-<h2>2)Linux Luminarium</h2>
+<h2>Linux Luminarium</h2>
 <br>
 <h3>Summary</h3>
   <p>For now i have completed 4/12 modules of Linux Luminarium and it is <em>sometime good and some time irritating</em>.Since i cleared a few levels of bandit ,Linux Luminarium has been easy so far.But i feel some questions are ambiguous and not clear so i got stuck in some questions.And when i have been stuck and i asked for help from one of my friend who has cleared all levels but even some of suggestions have not lead me anywhere :|.Like a command having the same logic works in his but doesnt work in mine so i have been more independent this time instead of just waiting for solutions .I have picked up on reading documentation a little bit ,but when the documentation is too big i still struggle a little bit </p>
