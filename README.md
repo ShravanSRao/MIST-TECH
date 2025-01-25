@@ -129,4 +129,24 @@ I  now (While writing this writeup) realiz that I  was converting bizare text to
   <p>For now i have completed 4/12 modules of Linux Luminarium and it is <em>sometime good and some time irritating</em>.Since i cleared a few levels of bandit ,Linux Luminarium has been easy so far.But i feel some questions are ambiguous and not clear so i got stuck in some questions.And when i have been stuck and i asked for help from one of my friend who has cleared all levels but even some of suggestions have not lead me anywhere :|.Like a command having the same logic works in his but doesnt work in mine so i have been more independent this time instead of just waiting for solutions .I have picked up on reading documentation a little bit ,but when the documentation is too big i still struggle a little bit </p>
 
 <br>
+<h3>Module 1</h3>
+
+<p>Had 2 problems so solved it quickly</p><br>
+<h3>Module 2</h3>
+<p>This  module was irritating not because it was hard .I felt the question instrcutions were not specific ,in some problems i didnt even understand why got the flag </p>
+<b>Things i learned :</b>
+<ul>
+  <li>Absolute path</li>
+  <li>Relative path</li>
+  <li>~</li>
+</ul><br>
+<h3>Module 3</h3>
+<p></p>
+<b>Things i learned :</b>
+<ul>
+  <li>Absolute path</li>
+  <li>Relative path</li>
+  <li>~</li>
+</ul>
+
 <p>Work in progress,I have not completed this task yet,im really sorry and i will try to complete it as soon as spossible </p>
