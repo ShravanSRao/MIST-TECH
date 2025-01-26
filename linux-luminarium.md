@@ -39,6 +39,19 @@
   <li>?</li>
   <li>[ ]</li>
   
+  
+</ul>
+<h3>Module 6</h3>
+<p></p>
+<b>Things i learned :</b>
+<ul>
+  <li>> command </li>
+  <li>>> for append mode</li>
+  <li></li>
+    <li></li>
+
+  
+  
 </ul>
 
 <p>Work in progress,I have not completed this task yet,im really sorry and i will try to complete it as soon as spossible </p>
