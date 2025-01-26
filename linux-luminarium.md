@@ -31,5 +31,14 @@
   <li><code>man man</code> : Reading to just documentation is hard but reading to the whole thing is harder.I'm not quite comfortable so will revise again</li>
   
 </ul>
+<h3>Module 5</h3>
+<p>Solved 5/6 problems .1 question left, i felt that the problem not solved yet is easy therfore investing more time to solve it.Learned ? * [] are some commands i used before but got a better understanding of these through this module</p>
+<b>Things i learned :</b>
+<ul>
+  <li>* </li>
+  <li>?</li>
+  <li>[]</li>
+  
+</ul>
 
 <p>Work in progress,I have not completed this task yet,im really sorry and i will try to complete it as soon as spossible </p>
