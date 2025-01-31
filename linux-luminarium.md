@@ -54,13 +54,13 @@
   
 </ul>
 <h3>Module 7</h3>
-<p>learned some new things and understood the ones i knew in a better view.I learned >& but not quite clear with idea,i chatgpted it but the logic given there and logic i used to solve didnt add up  <code>/challenge/run 2>&1 | grep "{"</code>So after some more searches i realised 2>&1 will seperate errors and stdout and pipes it to the grep .Am I right ?</p>
+<p>learned some new things and understood the ones i knew in a better view.I learned >& but not quite clear with idea,i chatgpted it but the logic given there and logic i used to solve didnt add up  <code>/challenge/run 2>&1 | grep "{"</code>So after some more searches i realised 2>&1 will seperate errors and stdout and pipes it to the grep .Am I right ?.Process submissiin is i will revising it .</p>
 <b>Things i learned :</b>
 <ul>
   <li>Redirecting errors FC0,FD1,FD2 </li>
   <li>Revised pipe operator</li>
-  <li></li>
-    <li></li>
+  <li>Tee command</li>
+    <li>Process submission </li>
 
   
   
