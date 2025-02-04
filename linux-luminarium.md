@@ -42,25 +42,39 @@
   
 </ul>
 <h3>Module 6</h3>
-<p></p>
+<p>learned some new things and understood the ones i knew in a better view.I learned >& but not quite clear with idea,i chatgpted it but the logic given there and logic i used to solve didnt add up  <code>/challenge/run 2>&1 | grep "{"</code>So after some more searches i realised 2>&1 will seperate errors and stdout and pipes it to the grep .Am I right ?.Process submissiin is i will revising it .</p>
 <b>Things i learned :</b>
 <ul>
-  <li>> command </li>
+  
   <li>>> for append mode</li>
-  <li></li>
-    <li></li>
+  <li>Redirecting errors FC0,FD1,FD2 </li>
+  <li>Revised pipe operator</li>
+  <li>Tee command</li>
+    <li>Process submission </li>
 
   
   
 </ul>
 <h3>Module 7</h3>
-<p>learned some new things and understood the ones i knew in a better view.I learned >& but not quite clear with idea,i chatgpted it but the logic given there and logic i used to solve didnt add up  <code>/challenge/run 2>&1 | grep "{"</code>So after some more searches i realised 2>&1 will seperate errors and stdout and pipes it to the grep .Am I right ?.Process submissiin is i will revising it .</p>
+<p>Completed this module pretty quickly ,learned about variable and how to export them and how they fucntion.Not so clear with the read command and it will one of the things im planning to revise</p>
 <b>Things i learned :</b>
 <ul>
-  <li>Redirecting errors FC0,FD1,FD2 </li>
-  <li>Revised pipe operator</li>
-  <li>Tee command</li>
-    <li>Process submission </li>
+  <li>env</li>
+  <li>Variables</li>
+  <li>Storing command output</li>
+  <li>read [Not so clear]</li>
+  <li></li>
+
+  
+  
+</ul>
+h3>Module 8</h3>
+<p>This module seemed really intimidating when I first started,so i started procrastinating</p>
+<b>Things i learned :</b>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
 
   
   
